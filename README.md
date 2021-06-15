@@ -12,11 +12,11 @@
 </p>
 
 <hr \>
-<p align="left">
-  
-![mrperfectt's github stats](https://github-readme-stats.vercel.app/api?username=mrperfectt&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
 
-</p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucafluri&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2">
+
+
+
 
 <p align="right"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> iOS developer at <a href="http://www.enjoei.com.br">enjoei</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> computer science student</em></p>
