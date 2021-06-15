@@ -12,7 +12,7 @@
 </p>
 
 <hr \>
-<p>
+<p align="left">
   
 ![mrperfectt's github stats](https://github-readme-stats.vercel.app/api?username=mrperfectt&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
 
