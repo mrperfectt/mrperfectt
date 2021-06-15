@@ -12,10 +12,13 @@
 </p>
 
 <hr \>
+![mrperfectt's github stats](https://github-readme-stats.vercel.app/api?username=mrperfectt&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+
+<hr \>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
 </p>  
 
-![mrperfectt's github stats](https://github-readme-stats.vercel.app/api?username=mrperfectt&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+
