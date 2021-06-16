@@ -28,4 +28,7 @@
    <i>You miss 100% of the shots you don't take.</i>
 </p>  
 
+### Spotify Channel 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
